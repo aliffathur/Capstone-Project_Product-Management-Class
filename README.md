@@ -27,3 +27,31 @@ Based on the data found, the team has concluded that Users are unaware of the re
 **Proposed Solution**
 Creating a platform to support users in accessing legal services, including services, consultations, information, and business legality, easily and quickly.
 
+**Product Roadmap**
+As a product owner, I am designing the product roadmap that will serve as a guide for the development process by the team. In this planning phase, I am supported by other tools such as Trello and Jira for monitoring the progress made by the team and creating and managing the product backlog, which serves as a prioritized list of features to be developed and improvements to be made. It is my responsibility to ensure that the development process adheres to the defined track and remains organized, while also being updated according to changes in business needs and customer requirements.
+![Activity roadmap](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/f9fb1248-b2a2-47a7-a52d-6834d15b140e)
+![Roadmap](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/eeeedadf-73e6-4077-b9f3-743d1f57772b)
+
+
+**Business Model Canvas**
+In the final project development process, I directed the product team to conduct the compilation of the Business Model Canvas (BMC). The purpose of BMC is to assist the team in designing and analyzing the business model.
+![bmc](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/e2d37f86-8c4a-4c3b-b183-9e2eb3a4f938)
+
+**Market Target**
+The product team targets a specific market segment consisting of smartphone users aged between 20 and 49 years in Indonesia. The target user base comprises 1% of the market and includes both micro, small, and medium enterprises (UMKM) as well as the general public. Additionally, analysis is conducted by researching potential customers who encounter issues related to business legality and legal matters.
+![Market target](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/0dd579a8-0d19-42ac-a228-1cf5b410ddf5)
+
+**Profit**
+In this final project, as the Product Owner, my team and I conducted the development of a CBA (Customer Benefit Analysis) to plan the company's finances and assess the projected utilization of the budget for the necessary expenses. We also calculated the company's cash flow. The CBA involved the costs of development, support and maintenance, marketing expenses, as well as accounting for unforeseen expenses. Through the raw calculations designed, we determined the total expenses incurred, which were then aggregated based on project benefits to yield the Net Present Value (NPV). We also analyzed the Break-Even Point (BEP) and estimated the Return on Investment (ROI) timeline, identifying the year in which ROI would be obtained.
+<img width="884" alt="Screenshot 2024-03-30 at 11 34 55" src="https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/c59830eb-3069-4c5c-bfab-4f713e565c4a">
+![Profit](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/b4616430-3319-49ae-a87f-7495348b7870)
+
+**User Interface**
+![52](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/27211cc7-8b43-4fde-b5ed-b023caba61f2)
+![53](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/6266d0e4-b948-496f-8f81-80d7c9158689)
+![54](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/df1836c0-ee97-4b59-91c4-179bf52dc4d0)
+
+
+
+
+
