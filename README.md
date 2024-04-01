@@ -51,6 +51,17 @@ In this final project, as the Product Owner, my team and I conducted the develop
 ![53](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/6266d0e4-b948-496f-8f81-80d7c9158689)
 ![54](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/df1836c0-ee97-4b59-91c4-179bf52dc4d0)
 
+**Testing**
+During the testing phase, my team and I conducted two rounds of testing. The first test was performed using test cases to evaluate the end-to-end process, ensuring that it meets the predefined criteria. We then captured the test results. This testing was conducted independently by the team.
+Subsequently, we conducted user testing using the Maze platform. Users were assigned missions by the system. They were then asked to complete each mission and record every moment while also evaluating the results of the testing.
+<img width="1426" alt="Screenshot 2024-04-01 at 11 05 17" src="https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/249d95b4-ceec-4e60-98dd-1c59b7c2fe91">
+![image](https://github.com/aliffathur/Capstone-Project_Product-Management-Class/assets/48820700/323c7329-006c-4791-8f27-0adcedc6f8b0)
+
+
+
+
+
+
 
 
 
